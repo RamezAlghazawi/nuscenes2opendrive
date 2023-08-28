@@ -15,11 +15,11 @@ This project was developed by **Ramez Alghazawi** :man_student: as part of his B
 
 **Installation**
 
-_TODO: Add installation instructions here._
+
 
 **Usage**
 
-_TODO: Add usage instructions here._
+
 
 ## Support :question:
 
